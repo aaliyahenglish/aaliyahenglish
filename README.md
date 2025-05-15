@@ -1,6 +1,5 @@
 - 👋 Hi! My name is Aaliyah English
 - 👀 I’m interested in learning different programming languages
 - 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on ...
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love reading!!
