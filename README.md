@@ -2,4 +2,4 @@
 - 👀 I’m interested in learning different programming languages
 - 🌱 I’m currently learning C++
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I love reading!!
+- ⚡ Fun fact: I love reading and traveling!!
