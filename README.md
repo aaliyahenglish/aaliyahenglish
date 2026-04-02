@@ -1,5 +1,5 @@
-- 👋 Hi! My name is Aaliyah
-- 👀 I’m interested in learning different programming languages and building things 
-- 🌱 I’m currently learning C/C++, Arduino,  Control Systems, and Sensors
-- 😄 Pronouns: she/her
+- 👋 Hi! My name is Aaliyah.
+- 👀 I’m interested in learning different programming languages and building things.
+- 🌱 I’m currently learning C/C++, Arduino,  Control Systems, and Sensors.
+- 😄 Pronouns: she/her.
 - ⚡ Fun fact: I love to read and travel.
