@@ -3,3 +3,4 @@
 - 🌱 I’m currently building webpages/apps, learning C/C++, Arduino, Control Systems, and Sensors.
 - 😄 Pronouns: she/her.
 - ⚡ Fun fact: I love to read and travel.
+- Instagram: https://www.instagram.com/aaliiyahenglish/
